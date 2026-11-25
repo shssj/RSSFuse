@@ -1,0 +1,7 @@
+# Keep the bytes of all checksummed artifacts identical on every checkout.
+*.pth binary
+*.csv whitespace=trailing-space,cr-at-eol
+reproduction/*.csv -text
+reproduction/*.json -text
+reproduction/*.sha256 -text
+evaluation/reference/per_image.csv -text

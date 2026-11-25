@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "steps": 5000,
+  "parameters": 2386148,
+  "training_checkpoint_sha256": "6902412a30ad19e8460216a4ac81bc3ca83c03297ed4453daaf5780a9024d89b",
+  "teacher_checkpoint_sha256": "87d0feb9bef089271515b9bd4797971c85efff90353f6ae20af6137856896642",
+  "initial_state_sha256": "28f8e760c69313a5860c0350fb4ab24505efc88eadccb53693a6a34e5c7fb2a9",
+  "probe_sha256": "42edfb0ff7f78609a7c30e034b8023b295cf8bc867b1d4b3c030252600f4daa4",
+  "model_weights_sha256": "169c2ad386e22688a94885fe2af7dcd3804f3273fbf563370b3fd0495bad6351"
+}

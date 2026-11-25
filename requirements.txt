@@ -1,0 +1,6 @@
+# Install PyTorch separately for the target CPU or CUDA runtime.
+numpy==1.23.5
+Pillow==9.3.0
+einops==0.6.0
+opencv-python-headless==4.6.0.66
+filelock==3.19.1
